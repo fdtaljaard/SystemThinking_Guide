@@ -1,2 +1,3 @@
-# SystemThinking_Guide
-Systems Thinking guide for software companies
+# System Thinking A Guide
+
+Systems Thinking guide focus to software companies
